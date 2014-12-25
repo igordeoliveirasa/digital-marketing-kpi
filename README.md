@@ -2,7 +2,7 @@ indicators
 ==========
 Important indicators for digital marketing.
 
-Invites sent
+Invites Sent
 -----
 The amount of invites sent.
 Can generally only be significantly improved by providing a service people love enough to recommend to their friends.
@@ -11,16 +11,16 @@ Installs
 -----
 The amount of installations.
 
-Invitation rate
+Invitation Rate
 -----
 The invitation rate is #invites / #installs (users). It denotes the average number of invites sent per user, and can generally only be significantly improved by providing a service people love enough to recommend to their friends. Example: if 1250 users sent in total 2000 invites, the invitation rate is (2000/1250)=1.6.
 
 
-Invitee signups
+Invitee Signups
 -----
 The amount of signups provided by invites.
 
-Acceptance rate
+Acceptance Rate
 -----
 The acceptance rate is #invitee signups / #invites. It is a measure of the success of your invites. Ways to improve this may include better invitation emails, smoother signup process, signup incentives, etc. Example: if out of the 2000 invitees, 580 new users signed up, the acceptance rate is (580/2000)=0.29.
 
